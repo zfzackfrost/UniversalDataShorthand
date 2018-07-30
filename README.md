@@ -24,8 +24,6 @@ UDatS, if you include it in your documentation. I would highly recommend
 linking to this repository in the beginning of your documentation, to
 clear up confusion.
 
-# UDatS Basics
-
 ## Motivation and Concept
 The UDatS format uses the basic syntax for the language being documented (along with 
 some special characters and keywords), in order to make it easier, and less error-prone
@@ -36,3 +34,14 @@ to put into words.
 
 UDatS allows programmers to easily convey the patterns in these _simple_ data formats, by
 using concepts similar to those found in regular expressions.
+
+# Fundamentals
+If you did not read the above section titled **READ THIS FIRST**, go back and read that now.
+
+This documentation assumes that you are comfortable with the following basic programming concepts: 
+- *arrays* (or *lists* in some languages like Python)
+- *dictionaries* (also called *maps*, *assosiative arrays*, and *symbol tables*)
+- *types* and *constructors* (if applicaple to your programming language)
+- *functions* (often called *methods*) and *return values*
+
+Some familiarity with *regular expressions* (in any programming language) is helpful but not required.
