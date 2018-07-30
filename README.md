@@ -20,7 +20,7 @@ a format for you to integrate into your documentation.
 
 ## Note on the word *Universal*
 The word *Universal*, does NOT mean that all HUMANS will understand
-UDatS, if you include it in your documentation. I would highly reccomend
+UDatS, if you include it in your documentation. I would highly recommend
 linking to this repository in the beginning of your documentation, to
 clear up confusion.
 
