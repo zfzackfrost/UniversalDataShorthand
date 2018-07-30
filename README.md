@@ -8,7 +8,7 @@ possible.
 
 ---------------------------------------------------------------------------------------
 
-# READ THIS FIRST (Introduction)
+# READ THIS FIRST (SERIOUSLY)
 Universal Data Shorthand (UDatS) is a shorthand notation for representing the structure
 of the data in your programs. UDatS is intended to be used in to communicate patterns 
 (like how many times a given type is allowed to occur in a container, more on that later),
@@ -26,5 +26,13 @@ clear up confusion.
 
 # UDatS Basics
 
+## Motivation and Concept
+The UDatS format uses the basic syntax for the language being documented (along with 
+some special characters and keywords), in order to make it easier, and less error-prone
+to document the various simple data formats that programmers use every day. These simple
+data structures may seem easy to understand when a coder creates it, but the rules that
+describe what lists/arrays or dictionarys/maps are expected and in what order can be hard
+to put into words.
 
-
+UDatS allows programmers to easily convey the patterns in these _simple_ data formats, by
+using concepts similar to those found in regular expressions.
