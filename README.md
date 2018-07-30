@@ -1,6 +1,6 @@
 # Universal Data Shorthand (a.k.a. UDatS)
 
-![GitHub](https://img.shields.io/github/license/mashape/apistatus.svg)
+![GitHub](https://img.shields.io/badge/license-MIT-green.svg)
 
 
 Language-agnostic shorthand notation for representing the type and 
