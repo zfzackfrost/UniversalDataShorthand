@@ -1,7 +1,6 @@
 # Universal Data Shorthand (a.k.a. UDatS)
 
-![GitHub](https://img.shields.io/badge/license-MIT-green.svg)
-
+![license MIT](https://img.shields.io/badge/license-MIT-green.svg)
 
 Language-agnostic shorthand notation for representing the type and 
 structure of data in documented code as clearly and efficiently as 
